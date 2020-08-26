@@ -1,0 +1,7 @@
+.btn3{
+    align-items: center;
+    color: #000;
+    display: flex;
+    justify-content: center; 
+    table-layout: auto;
+}
